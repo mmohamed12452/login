@@ -1,0 +1,70 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.outer-container
+{
+    height:65vh;
+    width:50%;
+    background-color:whitesmoke;
+    display:flex;
+   
+}
+.white-box
+{
+    padding:50px;
+    height:100%;
+    width:50%;
+    background-color: aqua;
+}
+input
+{
+    display:block;
+    margin-top:20px;
+    margin-bottom:10px;
+    height:30px;
+    width:90%;
+}
+.purple-box
+{
+    padding:50px;
+
+    height:100%;
+    width:50%;
+    background-color: purple;
+}
+h1
+{
+    font-size: xx-large;
+    font-weight: bold;
+    color:black; 
+}
+h2
+{
+    font-size:xx-large;
+    font-weight:bold;
+    color:white;
+}
+button
+{
+    width: 100px;
+    margin-top:20px;
+    border-radius:25px;
+    font-size:large;
+    font-weight:bold;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color: gold;
+    color:white;
+}
+#checkbox
+{
+    width:20px;
+}
+p
+{
+    margin-left:30px;
+    margin-top:-45px;
+    font-size:larger;
+}
